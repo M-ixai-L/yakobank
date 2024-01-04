@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9424185902",
+    "project_id": "yakobank-sz8q9u",
+    "storage_bucket": "yakobank-sz8q9u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9424185902:android:3e8bbe1c88b3bf39444dbf",
+        "android_client_info": {
+          "package_name": "com.yako.yakobank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5QOAFO2729J_s52BTlg-bdvNnTsbYmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
